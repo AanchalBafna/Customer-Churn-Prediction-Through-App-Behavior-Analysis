@@ -80,9 +80,6 @@ Files in This Project:
 - UML_report.pdf          : Final report document.
 - README.txt              : Overview of the project.
 
-SUBMITTED BY:
-AANCHAL BAFNA -A004
-KHUSHI PARTE -A016
 
 
 MSc Data Science, NMIMS
